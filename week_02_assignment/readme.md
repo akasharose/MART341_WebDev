@@ -1,6 +1,6 @@
 Marcus Milyko 51
 
-# I made a Level 1 Header
+# So this is my Homework, starting with a Level 1 Header
 # Now there's a Level 2. Cool.
 
 Now we're gonna have some lists. The first list is going to be...
@@ -27,3 +27,5 @@ rect(0,0,50,50);
 Wow, such Rectangle. I don't understand what I just did, so... yeah, that confuses me.
 
 ![Image is Here](readmeImage.jpg)
+
+I mostly just floundered about for most of this week. I'm not very at online interactivity, so I don't really help or get helped online... I most just struggle to figure out what I'm supposed to be doing until I eventually give up and go ask for help in person.
