@@ -1,0 +1,39 @@
+body {
+  background-color: CornflowerBlue;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 30pt;
+  line-height: .6em;
+}
+#title {
+  font-style: normal;
+  text-decoration: underline;
+}
+.author {
+  font-style: normal;
+  font-size: 2em;
+}
+.author:hover {
+  font-style: italic;
+  color: red;
+}
+
+.story-block {
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: azure;
+  border: 3pt solid black;
+  font-family: sans-serif;
+  text-align: left;
+  text-indent: 2em;
+  word-spacing: normal;
+}
+#large-text {
+  line-height: .05em;
+  font-size: 200%;
+  text-transform: uppercase;
+  word-spacing: .1em;
+}
