@@ -2,3 +2,17 @@
 body {
   background-color: DarkKhaki
 }
+
+.page-heading {
+  display: inline-block;
+  background-color: red;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 40pt;
+}
+#title {
+
+}
