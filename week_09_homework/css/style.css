@@ -3,6 +3,8 @@ body {
 }
 
 .page-heading {
+  width: 60%;
+  min-width: 1050px;
   display: inline-block;
   background-color: DarkOrchid;
   padding-bottom: 1em;
@@ -54,17 +56,23 @@ h1 {
   z-index: 1;
   text-decoration: none;
 }
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+}
 .menu-item-dropdown:hover {
   background-color: DarkSalmon;
-  display: block;
 }
-.menu-item-dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 .dropdown-item {
-  position: absolute;
   display: block;
   text-decoration: none;
+  border: solid;
+  padding: .5em;
+  font-size: 14pt;
+  background-color: plum;
 }
 .display-inline {
     display: inline;
@@ -74,8 +82,10 @@ h1 {
 }
 
 .main-content {
-  width: 640px;
-  height: 500px;
+  width: 35%;
+  min-width: 612px;
+  height: 50%;
+  min-height: 500px;
   background-color: LightSeaGreen;
   margin: 0%;
   padding: .7em;
@@ -83,12 +93,15 @@ h1 {
 }
 
 .side-content {
-  position: absolute;
-  left: 673px;
-  top: 178px;
-  width: 426px;
-  height: 500px;
+  position: fixed;
+  left: 36.5%;
+  top: 18.3%;
+  width: 25.55%;
+  min-width: 437px;
+  height: 50%;
+  min-height: 500px;
   background-color: GreenYellow;
+  margin: 0%;
   padding: .7em;
   border-style: solid;
 }
