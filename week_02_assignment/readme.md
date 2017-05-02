@@ -1,7 +1,7 @@
 Marcus Milyko 51
 
 # So this is my Homework, starting with a Level 1 Header
-# Now there's a Level 2. Cool.
+## Now there's a Level 2. Cool.
 
 Now we're gonna have some lists. The first list is going to be...
 
