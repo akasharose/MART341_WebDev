@@ -6,6 +6,6 @@ This site works as a RWD because anyone using it would either be on phone while 
 
 Hopefully, I figure out columns for the final -- I feel like that'd be helpful.
 
-![Mobile Sketch](/sketches/mobile_sketch.jpg)
-![Tablet Sketch](/sketches/tablet_sketch.jpg)
-![Desktop Sketch](/sketches/desktop_sketch.jpg)
+![Mobile Sketch](./sketches/mobile_sketch.jpg)
+![Tablet Sketch](./sketches/tablet_sketch.jpg)
+![Desktop Sketch](./sketches/desktop_sketch.jpg)
