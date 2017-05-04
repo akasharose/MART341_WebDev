@@ -1,0 +1,42 @@
+body {
+
+}
+
+.firstimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("images/walrus.jpg");
+}
+
+.secondimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("images/morewalrus.jpg");
+}
+
+.thirdimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("images/lotswalrus.jpg");
+}
+
+.walruses {
+  text-align: center;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
